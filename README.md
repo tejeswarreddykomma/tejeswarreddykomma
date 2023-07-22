@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tejeswarkomma@hotmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WQui1xRDOFhd9Jt3HZK-l23yRKwVMBVe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ABlpnh2YjfgT8NVcAjgDnnt5A9T-sb5S/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
