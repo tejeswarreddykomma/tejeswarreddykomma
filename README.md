@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/tejeswarreddy_k" target="blank"><img src="https://img.shields.io/twitter/follow/tejeswarreddy_k?logo=twitter&style=for-the-badge" alt="tejeswarreddy_k" /></a> </p>
 
-- 👨‍💻 I’m currently working as **Software Engineer Intern at AMD**
+- 👨‍💻 I’m currently working as **Software Development Engineer 2 at AMD**
 
-- 🌱 I’m currently pursuing **Master of Science (M.S) in Computer Science at The University of Texas at Dallas**
+- 🌱 Studied **Master of Science (M.S) in Computer Science at The University of Texas at Dallas**
 
 - 💬 Ask me about **backend**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tejeswarkomma@hotmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ABlpnh2YjfgT8NVcAjgDnnt5A9T-sb5S/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vzfsqt37EMpNgl3uvpSdxPvsxDhvYOxP/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
